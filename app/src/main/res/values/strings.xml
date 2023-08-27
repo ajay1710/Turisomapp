@@ -1,0 +1,122 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Information Book</string>
+
+    <string name="account">Do not have an account? <font color='#0000FF'> Sign up</font> </string>
+    <string name="forget"> <u>Forget your password?</u> </string>
+
+    <string name="jaisingh" >
+
+       <b>City</b>\t\t\t\t\: Jaipur \n\n
+
+      \t\t Sawai Jai Singh was a Rajput ruler of Amber, which is later known as Jaipur. He was also born in Amber on 3rd November 1688 and at the age of 11, he became the king of Amber after his father’s death. In 1699, he was honoured by the last powerful Mughal emperor Aurangzeb with the title of Sawai which refers to the superior of his contemporary period. The capital city of Amber during the period of Sawai Jai Singh was in Kachwaha and after 1727, the capital city was transferred to Jainagara, which is now known as Jaipur city and was located more than nine kilometres southwest of Amber.
+
+        </string>
+
+    <string name="partap">
+          <b>City</b>\t\t\t\t\: Mewar \n\n
+
+        \t\t  Pratap Singh, popularly known as the Maharana Pratap, was the 13th Maharana of Mewar known for his valiant and spirited defence against the Mughal Empire. He was one of the bravest Rajput rulers of India, who ruled Mewar in Rajasthan for 35 years. While other Rajput rulers accepted the supremacy of Akbar, he was one of the few rulers in Indian history who stood firm against the mighty Mughal Empire.
+
+\n\n\t\t This year marks the 482nd birth anniversary of Maharana Pratap. According to the English calendar, Maharana Pratap Jayanti falls on 9 May. But in India, the warrior king’s birth anniversary is celebrated, as per the Hindu calendar, on the Tritiya tithi of Jyeshtha’s Shukla Paksha, which falls on 2 June. The day is observed as a public holiday in some states such as Rajasthan, Haryana and Himachal Pradesh.
+
+    </string>
+
+    <string name="raobika">
+
+        <b>City</b>\t\t\t\t\: Bikaner \n\n
+
+        \t\t In 1465 AD, Rao Bika (one of the sons of Rao Jodha and a potential heir to the throne of Marwar) on the occasion in question had come late and taken seat beside his uncle, Rawat Kandhal, with whom he carried a conversation in whisper. The Rao jestingly remarked that they must be making a plan of conquest of new territory, an idea constantly being suggested to him to provide for his large family. Rao Bika and Rawat Kandhal took the observation as a challenge and pledged to win new lands. The land approved by Rao Jodha to conquer through conquest was Jangladesh which had been largely weakened by war as suggested by a Napo, a Sankhala Rajput. On 30 September, 1465 AD, the 27 year old Rao Bika along with Rawat Kandhal who had sworn to establish his nephew just like he did Rao Jodha in Marwar. With a considerable following of 100 horsemen and 500 foot-soldiers left Jodhpur along with his uncles Kandhal, Rupo, Mandan, Mandalo and Nathu; his brothers Bida, Jogayat and others.[2]
+
+\n\n\t\t They travelled to a place known as Deshnok seeking blessings from the sage Karni Mata. Bika and Kandhal sought guidance. They trained their armies without attracting attention for 3 years at Chundasar. Rao Bika then came again and impressed by his will, Karni Mata guided him and he followed. During his travels Bika stopped at Deshnoke where he consulted the mystic Karni Mata. She gave him her blessings and prophesied that he would be successful. Encouraged by her support, Bika took advantage of the internal rivalries of the Jat clans to carve out his own territory in the "Jangladesh" region of Rajasthan and by 1485 build a small fort called Rati Ghati at the site of the city which today bears his name.[3][4][5] In 1488 he began the building of the city itself. In the beginning the neighboring Bhati chiefs were suspicious of the new growing power in their vicinity. Karni Mata, who had become the kuldevi of Rao Bika, brought the rivalry between the Rathores and Bhatis to an end by inspiring Rao Shekha, the powerful Bhati chief of Pugal, to marry his daughter with Rao Bika.
+
+\n\n\t\t In 1488 itself, Bikaner was named and inaugurated by Karni Mata. As described by Colonel Powett, a British Officer, in his Gazetteer of the Bikaner state (1864)- "To the North and West the Bhatis ruled, and to the East, North East and South East were the settlements of independent Jats; beyond the Jats around Bhatner were Bhatis, Chayals and Johyas, chiefly, if not entirely Muhammadans. Hisar was occupied by the Delhi emperor's subedar. The Kaim Khanis held what is now Shekhawati. The Bidawat country was in the possession of Mohil Rajputs, and the tract which is in the East where Reni is situated was occupied by Chayal and Khinchi Rajputs. It was due to Rawat Kandhal, along with his nephews Rao Bika and Rao Bida that all the above mentioned territories were conquored and incorporated in the Kingdom of Bikaner
+    </string>
+
+    <string name="surajmal">
+
+         <b>City</b>\t\t\t\t\: Bharatpur \n\n
+
+        \t\t Maharaja Suraj Mal (13 February 1707 – 25 December 1763) or Sujan Singh, was a Hindu Jat ruler of Bharatpur in Rajasthan, India. Under him, the Jat rule covered the present-day districts of the national capital Delhi and districts of Agra, Aligarh, Alwar, Bharatpur, Bulandshahr, Dholpur, Etah, Etawa, Faridabad, Firozabad, Ghaziabad, Gurgaon, Hathras, Jhajjar, Kanpur, Mainpuri, Mathura, Mewat, Meerut, Muzaffarnagar, Palwal, Rewari, Saharanpur and Rohtak. In addition to the troops stationed at his forts, he had an army of 25,000 infantry and 15,000 cavalry when he died. Most of his campaigns were against the Mughal Empire whose authority in North India had weakened heavily due to the constant Maratha raids and conquests. Maharaja Suraj Mal took this opportunity to form the Hindu Jat kingdom with its capital at Bharatpur in Rajasthan. He captured the Mughal garrison of Agra. He removed the Jizya tax on Hindus imposed by the Mughals.
+
+    </string>
+
+
+
+    <string name="united_kingdom">
+
+        <b>Total Area</b>\t\t\t\t\: 64 km2 (25 sq mi) \n
+         \n\n
+\t\t The city of Lakes, Udaipur is a lovely land around the azure water lakes, hemmed in by the lush hills of the Aravalis. A vision in white drenched in romance and beauty, Udaipur is a fascinating blend of sights, sounds and experiences - an inspiration for the imagination of the poets, painters and writers. Its kaleidoscope of fairy-tale palaces, lakes, temples, gardens an narrow lanes strewn with stalls, carry the flavour of heroic past, epitomising valour and chivalry.
+
+\n\n\t\t Udaipur is a popular tourist destination in India. The lakes, palaces and lively workspaces and culture attract foreign and domestic visitors.  Udaipur have three interconnected lakes - the Fateh Sagar Lake, the Lake Pichhola and the smaller Swaroop Sagar Lake; along with forts, palaces, temples, gardens, mountains and narrow lanes lines withdrawn with stalls, relives the reminisces of a heroic past, valor and chivalry.
+
+    </string>
+
+    <string name="jaisalmer">
+
+        <b>Total Area</b>\t\t\t\t\: 62.38 km2 (24.09 sq mi) \n\n
+
+       \t\t Rawal Jaisal Singh, belonging to the Bhatti clan, founded Jaisalmer in 1156 and made Jaisalmer Fort his capital. In 1293, Jaisalmer saw her first siege by the hands of Alauddin Khilji, after Bhatti clan confiscated a caravan loaded with riches. The enemy forces entered the ramparts after a 7 -year long battle, and destroyed the fort. There was another attack at Jaisalmer by Sultan Ferozshah. This attack was also prompted by the actions of rulers of Jaisalmer who raided Feroz Shah’s camp nearby Ajmer. The state was then ruled over for a long time by Duda’s descendants who also fought a battle with Humayun during his reign. Rawal Sahal Singh turned the destiny of Jaisalmer after he regarded Mughal Emperor Shah Jahan as superior. Then, a nobleman named Sabala Simha with support from Shah Jahan ruled over Jaisalmer afterwards. That was the time when Jaisalmer princes reached the peak of their powers but by 1762, when Rawal Mulraj came to the throne, the state was depleted of its riches and had lost its provinces.
+
+\n\n\t\t Jaisalmer continued to be governed by princes of Bhatti clan till 1818, when Mulraj formed a political alliance with the British to save the dying state. Currently, even today, the descendants of Bhatti are still involved with a lot of development in and around the district. Brijraj Singh is the present descendant. The city lies under the Government of India.
+
+
+
+    </string>
+
+    <string name="Bikaner">
+        <b>Total Area</b>\t\t\t\t\: 270 km2 (100 sq mi) \n\n
+
+       \t\t The city was the capital of the former princely state of Bikaner. About 1465 Rao Bika, a Rajput chieftain of the Rathor clan, began to conquer the area from other Rajput clans. In 1488 he began building the city of Bikaner (“the settlement of Bika”). He died in 1504, and his successors gradually extended their possessions. The state adhered loyally to the Mughal emperors, who ruled in Delhi from 1526 to 1857. Rai Singh, who succeeded as chieftain of Bikaner in 1571 and ruled until 1612, became one of the emperor Akbar’s most-distinguished generals and was named the first raja of Bikaner.
+\n\n\t\t As Mughal dominance ebbed, wars between Bikaner and the princely state of Jodhpur raged intermittently in the 18th century. A treaty establishing British paramountcy was concluded in 1818, and order was restored in the country by British troops. The rebellious behaviour of the local thakurs, or subsidiary chiefs, continued, however, until the princely state was made subject to the Rajputana Agency (the British administrative unit in the region) in 1883. The state’s military force included the Bikaner Camel Corps, which gained renown in China during the Boxer Rebellion (1900) and in the Middle East during World War I. In 1949 Bikaner, which by then totaled more than 23,000 square miles (60,000 square km) in area, became part of the Indian state of Rajasthan and was divided into three districts.
+
+\n\n\t\t The old part of Bikaner city is surrounded by a stone wall that is 15 to 30 feet (5 to 9 metres) high and has five gates. Its architecture features numerous buildings of bright red and yellow sandstone. The area is overlooked by Junagarh Fort, which was built in the late 16th century by Rai Singh. Within the fort are several palaces of different periods, a museum housing Rajput miniature paintings, and a library of Sanskrit and Persian manuscripts. Nearby is the Lalgarh (or Lallgarh) Palace, home to the royal family of Bikaner as well as to a luxury hotel.
+
+\n\n\t\t Bikaner is now a trade centre for wool, hides, building stone, salt, and grain. Bikaneri woolen shawls, blankets, carpets, and candy are famous, and there are also ivory and lacquerware handicrafts. The city has electrical and mechanical engineering works, railway workshops, and factories that manufacture glass, pottery, felts, chemicals, shoes, and cigarettes. The city’s colleges (including a medical school and a teachers’ training institute) are affiliated with the University of Rajasthan in Jaipur.
+   </string>
+
+    <string name="india">
+    <b>Total Area</b>\t\t\t\t\: 467 km2 (180 sq mi) \n
+
+
+   \n\t\t Jaipur is a popular tourist destination and a commercial trade centre with major road, rail, and air connections. Industries include engineering and metalworking, hand-loom weaving, distilling, and the manufacture of glass, hosiery, carpets, blankets, shoes, and drugs. Jaipur’s famous arts and crafts include the making of jewelry, enamel, metalwork, and printed cloths, as well as stone, marble, and ivory carving.
+
+\n\n\t\t The city is known for its beauty, and it is unique in its straight-line planning. Its buildings are predominantly rose-coloured, and it is sometimes called the “pink city.” The chief buildings are the City Palace, part of which is home to the royal family of Jaipur; Jantar Mantar, an 18th-century open-air observatory that was designated a UNESCO World Heritage site in 2010; Hawa Mahal (Hall of Winds); Ram Bagh palace; and Nahargarh, the Tiger Fort. Other public buildings include a museum and a library. Jaipur is the seat of the University of Rajasthan, founded in 1947.
+
+\n\n\t\t The city is surrounded by fertile alluvial plains to the east and south and hill chains and desert areas to the north and west. Bajra (pearl millet), barley, gram (chickpeas), pulses, and cotton are the chief crops grown in the region. Iron ore, beryllium, mica, feldspar, marble, copper, and garnet deposits are worked. In addition to Amer, other nearby attractions include Sariska National Park to the northeast.
+
+
+    </string>
+
+    <string name="rambagh">
+
+        \t\t The first building on the site was a garden house built in 1835 for the wet nurse of prince Ram Singh II.[1] In 1887, during the reign of Maharaja Thakur Sawai Madho Singh, it was converted into a modest royal hunting lodge, as the house was located in the midst of a thick forest at that time. In the early 20th century, it was expanded into a palace to the designs of Sir Samuel Swinton Jacob.[2] Maharajah Sawai Man Singh II made Rambagh his principal residence and added a number of royal suites in 1931.
+
+\n\n\t\t It is now operated as a five-star hotel by the Taj Hotels Group.
+
+     </string>
+
+    <string name="khatu">
+        \t\t The Khatu Shyam Temple (Rajasthani/Hindi: खाटू श्याम मंदिर) is a Hindu temple in Khatoo village, just 43 km from Sikar City in the Sikar district of the Indian State of Rajasthan. It is a pilgrimage site for worshipping the deity Krishna and Barbarika who is often venerated as a Kuladevata. Devotees believe the temple houses the head of Barbarika or Khatushyam, a legendary warrior who sacrifices his head upon the request of Krishna during the antebellum of the Kurukshetra War.
+    </string>
+
+    <string name="brahma">
+        \t\t Brahma Temple, Pushkar (also known as Jagatpita Brahma Mandir) is a Hindu temple situated at Pushkar in the Indian state of Rajasthan, close to the sacred Pushkar Lake to which its legend has an indelible link.
+
+\n\n\t\t The temple is one of very few existing temples dedicated to the Hindu creator-god Brahma in India and remains the most prominent among them.The temple structure dates to the 14th century, with later partial rebuilding. The temple is made of marble and stone slabs. It has a distinct red pinnacle (shikhara) and a hamsa bird motif. The temple sanctum sanctorum holds the image of four-headed Brahma and his consort Gayatri (goddess of vedas). The temple is governed by the Sanyasi (ascetic) sect priesthood.[2] On Kartik Poornima, a festival dedicated to Brahma is held when large numbers of pilgrims visit the temple, after bathing in the sacred lake.
+    </string>
+
+    <string name="albert">
+        \t\t The Albert Hall Museum in Jaipur is the oldest museum of the state and functions as the state museum of Rajasthan, India. The building is situated in Ram Niwas garden outside the city wall opposite New gate and is a fine example of Indo-Saracenic architecture. It is also called the Government Central Museum. It was considered one of the best 19th century museums for the variety of its collections. It was renovated in 2008 and reopened as one of the most advanced museums in India.
+    </string>
+
+    <string name="anokhi">
+        \t\t The Anokhi Museum of Hand Printing is a private museum located in Amber, Rajasthan dedicated to the art of hand-block printing. Opened in 2005, the museum is an initiative of the founders of Anokhi, an Indian retail brand of block-printed clothes.[1][2]
+
+\n\n\t\t The museum was the conceived by Rachel Bracken-Singh, and her husband Pritam Singh.[3] It intends to preserve the traditional crafts, provide a tactile experience of learning about the technique of block-printing craft, and its rich history. The museum showcases a wide range of collections ranging from textiles, tools to equipment, etc
+    </string>
+
+    <string name="jaislmerwar">
+        \t\t Jaisalmer War nicknamed "The Golden city", is a city in the Indian state of Rajasthan, located 575 kilometres (357 mi) west of the state capital Jaipur. It is the administrative headquarters of Jaisalmer District. Before Indian independence, the town served as the capital of the Jaisalmer State, ruled by the Bhati Rajputs.[7] Jaisalmer stands on a ridge of yellowish sandstone and is crowned by the ancient Jaisalmer Fort. This fort contains a royal palace and several ornate Jain temples. Many of the houses and temples of both the fort and of the town below are built of finely sculptured sandstone. The town lies in the heart of the Thar Desert (the Great Indian Desert) and has a population, including the residents of the fort, of about 78,000.
+    </string>
+</resources>
